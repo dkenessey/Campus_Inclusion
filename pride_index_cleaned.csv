@@ -1,0 +1,239 @@
+campus_name,rating,students,community_type,community_size,city,state,student_body_size
+"Adelphi University",5.00,7859,"small town",22891,"Garden City",NY,Small
+"Allegheny College",4.50,1800,"small town",12680,Meadville,PA,Small
+"Antioch College",4.50,125,"rural community",3724,"Yellow Springs",OH,"Very Small"
+"Appalachian State University",4.50,20436,"small town",19756,Boone,NC,Large
+"Art Academy of Cincinnati",2.50,260,"medium city",309513,Cincinnati,OH,"Very Small"
+"Augsburg University",5.00,3537,"large urban city",425096,Minneapolis,MN,Small
+"Baldwin Wallace University",4.00,3500,"small town",18395,Berea,OH,Small
+"Bard College at Simon's Rock",4.50,400,"very small town",6852,"Great Barrington",MA,"Very Small"
+"Bates College",3.50,1800,"small city",38493,Lewiston,ME,Small
+"Bentley University",4.50,4100,"small city",64065,Waltham,MA,Small
+"Bergen Community College",4.50,14585,"large urban city",26359,Paramus,NJ,Medium
+"Big Sandy Community and Technical College",2.50,1193,"rural community",3791,Prestonsburg,KY,Small
+"Binghamton University SUNY",4.50,18000,"small city",47115,Binghamton,NY,Medium
+"Bluegrass Community & Technical College (BCTC)",4.00,14500,"medium city",320347,Lexington,KY,Medium
+"Bridgewater State University",4.50,10000,"small city",27395,Bridgewater,MA,Small
+"Bryant University",2.00,3287,"small town",21430,Smithfield,RI,Small
+"Butte College",3.50,4816,"small town",20041,Oroville,CA,Small
+"California State Polytechnic University-Pomona",3.50,23717,"medium city",146017,Pomona,CA,Large
+"California State University-Bakersfield",3.50,7000,"medium city",410647,Bakersfield,CA,Small
+"California State University, Chico",4.00,16251,"medium city",101299,Chico,CA,Medium
+"California State University, Long Beach or Long Beach State",4.50,36846,"medium city",451307,"Long Beach",CA,"Very Large"
+"California State University, Northridge",4.50,36000,"large urban city",70653,Northridge,CA,"Very Large"
+"Camden County College",2.50,6425,"rural community",4588,Blackwood,NJ,Small
+"Catawba College",2.00,1200,"rural community",35808,Salisbury,NC,Small
+"Centre College",3.00,1450,"small town",17303,Danville,KY,Small
+"Clark University",4.50,2300,"medium city",205319,Worcester,MA,Small
+"Cleveland State University",4.00,16000,"medium city",361607,Cleveland,OH,Medium
+"Colby College",3.50,2299,"small town",15828,Waterville,ME,Small
+"Colgate University",4.50,3228,"rural community",4100,Hamilton,NY,Small
+"College of Staten Island/CUNY",3.50,10185,"large urban city",492925,"Staten Island",NY,Medium
+"College of Wooster",4.00,2000,"small city",27031,Wooster,OH,Small
+"Colorado College",2.50,2300,"large urban city",486248,"Colorado Springs",CO,Small
+"Cuyahoga Community College Eastern Campus",3.00,3394,"small town",670,"Highland Hills",OH,Small
+"Cuyahoga Community College Metro Campus",3.00,3094,"medium city",361607,Cleveland,OH,Small
+"Cuyahoga Community College Western Campus",3.00,7000,"small city",79358,Parma,OH,Small
+"Cuyahoga Community College Westshore Campus",3.00,2183,"small city",33907,Westlake,OH,Small
+"Dakota State University",2.00,3100,"very small town",6097,Madison,SD,Small
+"Davidson College",4.00,1850,"small town",15771,Davidson,NC,Small
+"Diablo Valley College",1.50,7854,"small city",33913,"Pleasant Hill",CA,Small
+"Dickinson College",4.50,2400,"small town",22203,Carlisle,PA,Small
+"Dominican University of California",3.00,1531,"small city",59971,"San Rafael",CA,Small
+"Drew University",4.50,2100,"small town",16261,Madison,NJ,Small
+"Drexel University",3.50,14000,"large urban city",1567000,Philadelphia,PA,Medium
+"Dutchess Community College",3.50,6500,"medium city",32010,Poughkeepsie,NY,Small
+"Earlham College",4.50,1200,"small city",35513,Richmond,IN,Small
+"East Carolina University",3.44,29131,"small city",89233,Greenville,NC,Large
+"Eastern Mennonite University",3.00,1000,"small city",51158,Harrisonburg,VA,Small
+"Eastern Michigan University",4.50,10500,"small city",19732,Ypsilanti,MI,Medium
+"Eckerd College",3.00,1950,"medium city",261256,"St. Petersburg",FL,Small
+"Elon University",5.00,6500,"small town",11250,Elon,NC,Small
+"Emerson College",4.00,3783,"large urban city",650706,Boston,MA,Small
+"Emory University",4.50,14769,"large urban city",499127,Atlanta,GA,Medium
+"Emporia State University",4.00,6100,"small city",23941,Emporia,KS,Small
+"Ferris State University",3.50,10222,"small town",7858,"Big Rapids",MI,Medium
+"Fitchburg State University",4.50,3500,"small city",41502,Fitchburg,MA,Small
+"Florida International University",4.50,34000,"large urban city",449514,Miami,FL,Large
+"Forsyth Technical Community College",4.00,2890,"medium city",251350,Winston-Salem,NC,Small
+"Fort Lewis College",4.00,3443,"small town",19531,Durango,CO,Small
+"Gallaudet University",3.50,1454,"large urban city",671803,Washington,DC,Small
+"George Mason University",5.00,39150,"small city",24835,Fairfax,VA,"Very Large"
+"Georgia College & State University",3.00,6800,"small town",16837,Milledgeville,GA,Small
+"Georgia Southern University",3.50,21000,"small town",34353,Statesboro,GA,Large
+"Gettysburg College",4.50,2400,"very small town",8558,Gettysburg,PA,Small
+"Gonzaga University",4.50,7450,"medium city",230160,Spokane,WA,Small
+"Guilford College",5.00,1200,"medium city",301115,Greensboro,NC,Small
+"Gwynedd Mercy University",3.00,1724,"small town",17072,"Gwynedd Valley",PA,Small
+"Hartwick College",3.50,1100,"small town",15518,Oneonta,NY,Small
+"Harvard College",4.50,6500,"medium city",118488,Cambridge,MA,Small
+"Haverford College",3.00,1400,"small city",50375,Haverford,PA,Small
+"Henry Ford Community College",2.50,13000,"small city",107710,Dearborn,MI,Medium
+"Hobart and William Smith Colleges",4.50,2396,"rural community",12503,Geneva,NY,Small
+"Hofstra University",5.00,9533,"medium city",768103,Hempstead,NY,Small
+"Illinois State University",4.00,20000,"small city",52838,Normal,IL,Medium
+"Indiana University, Bloomington",5.00,49695,"small city",79107,Bloomington,IN,"Very Large"
+"Ithaca College",5.00,6000,"small city",32870,Ithaca,NY,Small
+"James Madison University",4.00,22000,"small city",51158,Harrisonburg,VA,Large
+"Joliet Junior College",2.50,10000,"small city",150033,Joliet,IL,Small
+"Juniata College",3.00,1600,"very small town",6930,Huntingdon,PA,Small
+"Kalamazoo College",4.00,1458,"medium city",72873,Kalamazoo,MI,Small
+"Kansas State University",5.00,20000,"small city",53829,Manhattan,KS,Medium
+"Kean University",3.00,11610,"small city",67258,Union,NJ,Medium
+"Kent State University",5.00,28000,"small city",27147,Kent,OH,Large
+"Kenyon College",4.00,1730,"rural community",2304,Gambier,OH,Small
+"Knox College",4.00,1300,"small city",29255,Galesburg,IL,Small
+"Kutztown University",4.00,8000,"very small town",4164,Kutztown,PA,Small
+"Lawrence University",4.00,1500,"small city",74511,Appleton,WI,Small
+"Lebanon Valley College",4.00,1651,"rural community",4829,Annville,PA,Small
+"Lehigh University",5.00,6950,"small city",77617,Bethlehem,PA,Small
+"Linfield University",3.00,1750,"small city",34530,McMinnville,OR,Small
+"Macalester College",5.00,2094,"large urban city",303176,"Saint Paul",MN,Small
+"Manhattan School of Music",3.00,1035,"large urban city",8336000,"New York",NY,Small
+"Mars Hill University",3.00,1000,"rural community",2107,"Mars Hill",NC,Small
+"Metropolitan State University of Denver",4.50,21000,"large urban city",713252,Denver,CO,Large
+"Miami University-Oxford",4.50,24000,"small town",19645,Oxford,OH,Large
+"Michigan State University",4.00,50000,"small city",47340,"East Lansing",MI,"Very Large"
+"Michigan Technological University",3.50,7238,"rural community",7983,Houghton,MI,Small
+"Millersville University of Pennsylvania",3.50,7500,"small city",9180,Millersville,PA,Small
+"Milwaukee Institute of Art & Design",4.00,900,"large urban city",563305,Milwaukee,WI,"Very Small"
+"Missouri Science & Technology",3.00,9000,"small town",20322,Rolla,MO,Small
+MIT,4.50,11000,"medium city",118488,Cambridge,MA,Medium
+"Mohawk Valley Community College",2.00,5000,"small city",64081,Utica,NY,Small
+"Montana State University-Bozeman",4.00,16902,"small city",56123,Bozeman,MT,Medium
+"Montclair State University",5.00,21000,"small city",38676,Montclair,NJ,Large
+"Montserrat College of Art",4.00,370,"small city",42235,Beverly,MA,"Very Small"
+"Napa Valley College",4.00,5000,"small city",78315,Napa,CA,Small
+"Nazareth College",4.00,3000,"small town",209352,Rochester,NY,Small
+"New Mexico State University",4.50,16765,"medium city",113888,"Las Cruces",NM,Medium
+"Norco College",3.00,10000,"small town",25042,Norco,CA,Small
+"North Dakota State University",3.50,14500,"medium city",131444,Fargo,ND,Medium
+"Northeastern Illinois University",2.50,10275,"large urban city",2665000,Chicago,IL,Medium
+"Northern Arizona University",4.50,29000,"small city",75907,Flagstaff,AZ,Large
+"Northern Illinois University",5.00,16234,"small city",40220,DeKalb,IL,Medium
+"Northern Kentucky University",5.00,16000,"medium city",6418,"Highland Heights",KY,Medium
+"Northwestern University",4.00,21215,"small city",75544,Evanston,IL,Large
+"Oakland University",5.00,17170,"small city",12832,Rochester,MI,Medium
+"Oregon State University",4.00,28000,"small city",60956,Corvallis,OR,Large
+"Otis College of Art and Design",4.00,1100,"large urban city",3822000,"Los Angeles",CA,Small
+"Pace University",5.00,12835,"large urban city",8336000,"New York",NY,Medium
+"Point Park University",3.00,4000,"medium city",302898,Pittsburgh,PA,Small
+"Portland State University",5.00,25000,"large urban city",635067,Portland,OR,Large
+"Purdue University",5.00,49000,"small city",45060,"West Lafayette",IN,"Very Large"
+"Ramapo College of New Jersey",4.00,5041,"small city",26380,Mahwah,NJ,Small
+"Randolph College",3.00,650,"rural community",79287,Lynchburg,VA,"Very Small"
+"Red Rocks Community College",3.50,4297,"medium city",156120,Lakewood,CO,Small
+"Regis College",3.50,3014,"rural community",11261,Weston,MA,Small
+"Rhode Island College",2.50,5776,"medium city",189563,Providence,RI,Small
+"Rhodes College",4.50,2000,"large urban city",621056,Memphis,TN,Small
+"Rochester Institute of Technology",4.00,18897,"medium city",209352,Rochester,NY,Medium
+"Roger Williams University",4.00,4000,"small town",22131,Bristol,RI,Small
+"Rutgers, The State University of New Jersey-New Brunswick",5.00,48000,"large urban city",776827,"New Brunswick",NJ,"Very Large"
+"Sacred Heart University",4.00,10216,"small city",62105,Fairfield,CT,Medium
+"Salt Lake Community College",4.00,16158,"large urban city",204657,"Salt Lake City",UT,Medium
+"San Diego State University",5.00,32000,"large urban city",1381000,"San Diego",CA,Large
+"San Francisco State University",3.50,29905,"large urban city",808437,"San Francisco",CA,Large
+"Skyline College",3.00,5599,"small city",41533,"San Bruno",CA,Small
+"Slippery Rock University",4.00,8500,"rural community",3591,"Slippery Rock",PA,Small
+"Southern Illinois University Carbondale",5.00,14000,"small city",21717,Carbondale,IL,Medium
+"Southern Methodist University",4.50,12373,"large urban city",1300000,Dallas,TX,Medium
+"Southern New Hampshire University",3.50,3400,"medium city",115141,Manchester,NH,Small
+"Southwestern University",3.50,1500,"small city",86507,Georgetown,TX,Small
+"St. John's College, Annapolis",3.50,450,"small city",40648,Annapolis,MD,"Very Small"
+"Stevens Institute of Technology",4.00,6825,"small city",57703,Hoboken,NJ,Small
+"Stockton University",4.50,9080,"small city",35967,Galloway,NJ,Small
+"Suffolk University",3.50,7288,"large urban city",650706,Boston,MA,Small
+"SUNY Oneonta",4.00,5514,"small town",15518,Oneonta,NY,Small
+"SUNY Rockland Community College",3.00,7500,"small town",11338,Suffern,NY,Small
+"SUNY Westchester Community College",4.00,13000,"very small town",3052,Valhalla,NY,Medium
+"Susquehanna University",3.00,2300,"very small town",5693,Selinsgrove,PA,Small
+"Swarthmore College",4.00,1699,"large urban city",6494,Swarrthmore,PA,Small
+"Syracuse University",3.93,14422,"medium city",144451,Syracuse,NY,Medium
+"Texas State University",3.50,38000,"small city",70301,"San Marcos",TX,"Very Large"
+"The College of Idaho",2.50,987,"very small town",65920,Caldwell,ID,"Very Small"
+"The Evergreen State College",3.50,2100,"small city",55669,Olympia,WA,Small
+"The Pennsylvania State University",5.00,46184,"small town",40745,"University Park",PA,"Very Large"
+"The University of Alabama",4.50,38000,"small city",110602,Tuscaloosa,AL,"Very Large"
+"The University of Findlay",3.50,3500,"small city",40249,Findlay,OH,Small
+"Tidewater Community College",1.50,7028,"large urban city",232995,Norfolk,VA,Small
+"Towson University",5.00,16517,"large urban city",57617,Towson,MD,Medium
+"Trinity College",5.00,2159,"medium city",120686,Hartford,CT,Small
+"Tufts University",5.00,11926,"small city",65399,Medford,MA,Medium
+"Union College",5.00,2150,"small city",68809,Schenectady,NY,Small
+"University at Albany - SUNY",5.00,18000,"medium city",100826,Albany,NY,Medium
+"University at Buffalo",3.50,29850,"medium city",276486,Buffalo,NY,Large
+"University California, Irvine",3.50,29000,"medium city",313685,Irvine,CA,Large
+"University of Arkansas at Little Rock",2.50,6712,"medium city",202864,"Little Rock",AR,Small
+"University of Central Arkansas",2.00,12000,"small city",67617,Conway,AR,Medium
+"University of Colorado at Boulder",5.00,30000,"small city",105485,Boulder,CO,Large
+"University of Colorado at Colorado Springs",4.50,12017,"medium city",486248,"Colorado Springs",CO,Medium
+"University of Houston",4.50,40000,"large urban city",2303000,Houston,TX,"Very Large"
+"University of Illinois Chicago",5.00,30539,"large urban city",2665000,Chicago,IL,Large
+"University of Kansas",4.50,28000,"small city",95794,Lawrence,KS,Large
+"University of Kentucky",5.00,30000,"medium city",320347,Lexington,KY,Large
+"University of La Verne",2.50,8600,"small city",30380,"La Verne",CA,Small
+"University of Louisville",5.00,22000,"large urban city",624444,Louisville,KY,Large
+"University of Maine at Farmington",4.50,1800,"very small town",7813,Farmington,ME,Small
+"University of Maine at Machias",4.50,800,"rural community",2072,Machias,ME,"Very Small"
+"University of Mary Washington",4.00,4000,"small city",28757,Fredericksburg,VA,Small
+"University of Maryland, Baltimore County",3.00,14000,"large urban city",569931,Baltimore,MD,Medium
+"University of Maryland, College Park",5.00,37952,"large urban city",34190,"College Park",MD,"Very Large"
+"University of Massachusetts, Amherst",5.00,28500,"small town",37819,Amherst,MA,Large
+"University of Miami",4.00,16397,"large urban city",49193,"Coral Gables",FL,Medium
+"University of Michigan-Ann Arbor",5.00,46000,"medium city",119875,"Ann Arbor",MI,"Very Large"
+"University of Michigan-Dearborn",3.00,9000,"medium city",107710,Dearborn,MI,Small
+"University of Minnesota, Morris",4.00,1900,"very small town",5084,Morris,MN,Small
+"University of Missouri - St. Louis",4.00,8381,"large urban city",286578,"Saint Louis",MO,Small
+"University of Missouri-Kansas City",4.50,16375,"large urban city",509297,"Kansas City",MO,Medium
+"University of Mount Union",3.00,2100,"small town",21414,Alliance,OH,Small
+"University of Nebraska at Kearney",5.00,6232,"small city",34277,Kearney,NE,Small
+"University of Nebraska at Omaha",4.50,15500,"large urban city",486153,Omaha,NE,Medium
+"University of New Hampshire-Main Campus",4.50,13000,"small town",16574,Durham,NH,Medium
+"University of New Haven",4.00,6500,"small city",55004,"West Haven",CT,Small
+"University of North Carolina at Charlotte",3.50,22968,"large urban city",897720,Charlotte,NC,Large
+"University of North Dakota",4.00,14172,"small city",58692,"Grand Forks",ND,Medium
+"University of Northern Colorado",5.00,11114,"medium city",109209,Greeley,CO,Medium
+"University of Oklahoma-Norman Campus",4.00,25829,"medium city",129627,Norman,OK,Large
+"University of Pittsburgh at Bradford",3.50,1500,"rural community",7655,Bradford,PA,Small
+"University of Pittsburgh-Main Campus",5.00,25069,"medium city",302898,Pittsburgh,PA,Large
+"University of Puget Sound",4.00,2200,"medium city",221776,Tacoma,WA,Small
+"University of Richmond",4.50,3890,"medium city",229395,Richmond,VA,Small
+"University of Rochester",5.00,10182,"medium city",209352,Rochester,NY,Medium
+"University of Tennessee",4.00,26000,"medium city",195889,KNoxville,TN,Large
+"University of Texas Arlington",5.00,47000,"medium city",394602,Arlington,TX,"Very Large"
+"University of Texas at Dallas",5.00,27642,"medium city",118802,Richardson,TX,Large
+"University of the Arts",3.00,1900,"large urban city",1567000,Philadelphia,PA,Small
+"University of Toledo",4.00,23000,"medium city",266301,Toledo,OH,Large
+"University of Vermont",5.00,11000,"small city",44595,Burlington,VT,Medium
+"University of Virginia",4.50,22000,"small town",45373,Charlottesville,VA,Large
+"University of Wisconsin",4.50,43193,"medium city",272903,Madison,WI,"Very Large"
+"University of Wisconsin - Eau Claire",5.00,11000,"small city",68737,"Eau Claire",WI,Medium
+"University of Wisconsin - Green Bay",5.00,9780,"medium city",106095,"Green Bay",WI,Small
+"University of Wisconsin - Milwaukee",4.50,23829,"large urban city",563305,Milwaukee,WI,Large
+"University of Wisconsin - Oshkosh",4.50,14000,"small city",65948,Oshkosh,WI,Medium
+"University of Wisconsin - Superior",3.50,2500,"small city",26459,Superior,WI,Small
+"University of Wisconsin - Whitewater",4.00,12000,"small town",15638,Whitewater,WI,Medium
+"University of Wisconsin-Stevens Point",4.50,8900,"small city",25716,"Stevens Point",WI,Small
+"Virginia Commonwealth University",4.50,31500,"medium city",229395,Richmond,VA,Large
+"Virginia State University",4.00,3400,"small town",33394,"Virginia State University",VA,Small
+"Virginia Tech",4.00,31000,"small city",45610,Blacksburg,VA,Large
+"Virginia Wesleyan University",5.00,1750,"large urban city",455618,"Virginia Beach",VA,Small
+"Washington College",3.50,1420,"very small town",5563,Chestertown,MD,Small
+"Washington State University",5.00,19446,"small town",32508,Pullman,WA,Medium
+"Washington University in St. Louis",5.00,14000,"medium city",286578,"St. Louis",MO,Medium
+"Wayne State University",3.50,26251,"large urban city",620376,Detroit,MI,Large
+"Wentworth Institute of Technology",4.50,5000,"large urban city",650706,Boston,MA,Small
+"West Chester University of Pennsylvania",4.00,17552,"small town",19531,"West Chester",PA,Medium
+"West Virginia University",4.50,34000,"small city",30277,Morgantown,WV,Large
+"Western Colorado University",3.00,3040,"very small town",6794,Gunnison,CO,Small
+"Western Kentucky University",4.50,13228,"small city",74926,"Bowling Green",KY,Medium
+"Wheaton College",4.50,1700,"small town",19948,Norton,MA,Small
+"Whitman College",3.00,1493,"small city",33492,"Walla Walla",WA,Small
+"Wichita State University",4.00,15000,"large urban city",396192,Wichita,KS,Medium
+"Widener University",4.00,6300,"small city",33449,Chester,PA,Small
+"William & Mary",3.62,8500,"small town",15909,Williamsburg,VA,Small
+"William Paterson University of New Jersey",4.50,8000,"small city",53657,Wayne,NJ,Small
+"Woodbury University",3.00,1132,"medium city",103920,Burbank,CA,Small
+"Worcester State University",4.50,4039,"medium city",205319,Worcester,MA,Small
+"Xavier University",3.00,6738,"medium city",309513,Cincinnati,OH,Small
+"Youngstown State University",3.00,11171,"medium city",59144,Youngstown,OH,Medium
