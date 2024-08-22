@@ -4,7 +4,7 @@
 The National Campus Inclusion Initiative (NCII) is a non-profit organization focused on promoting diversity and inclusion in higher education institutions across the United States. The NCII wants to identify the key factors that contribute to a higher inclusivity rating for campuses and understand the relationship between the size and type of community and the inclusivity rating. This analysis will help the NCII prioritize efforts and resources towards campuses that need the most improvement and identify best practices from high-rating campuses.
 
 <h1 style="font-size:24px;"> <b> 2. Dataset </b> </h1>
-The data containing campus inclusivity ratings is shared via an .csv file. The dataset contains 245 rows and 6 columns (campus name, campus location, inclusion rating, student body size, community size, and community type). The dataset was provided by Data In Motions through their weekly Data Analyst Challenge.
+The data (pride_index.csv) containing campus inclusivity ratings is shared via an .csv file. The dataset contains 245 rows and 6 columns (campus name, campus location, inclusion rating, student body size, community size, and community type). The original dataset was provided by Data In Motion through their weekly Data Analyst Challenge. This dataset was cleaned in MySQL, resulting in a new .csv file (pride_index_cleaned.csv) that contains 239 rows and 8 columns (campus name, city, state, inclusion rating, student body size, student body size type, community size, and community type).
 
 <h1 style="font-size:24px;"> <b> 3. Software used </b> </h1>
 MySQL, Python 
