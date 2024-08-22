@@ -7,7 +7,16 @@ The National Campus Inclusion Initiative (NCII) is a non-profit organization foc
 The data (pride_index.csv) containing campus inclusivity ratings is shared via an .csv file. The dataset contains 245 rows and 6 columns (campus name, campus location, inclusion rating, student body size, community size, and community type). The original dataset was provided by Data In Motion through their weekly Data Analyst Challenge. This dataset was cleaned in MySQL, resulting in a new .csv file (pride_index_cleaned.csv) that contains 239 rows and 8 columns (campus name, city, state, inclusion rating, student body size, student body size type, community size, and community type).
 
 <h1 style="font-size:24px;"> <b> 3. Software used </b> </h1>
-MySQL, Python 
+
+- MySQL == 9.0.1
+- Python == 3.10.12
+  - numpy == 1.25.2
+  - pandas == 2.0.3
+  - matplotlib == 3.7.1
+  - seaborn == 0.13.1
+  - geopandas == 0.13.2
+  - scipy == 1.11.4
+  - sckit-posthocs == 0.9.0
 
 <h1 style="font-size:24px;"> <b> 4. Key Findings </b> </h1>
 
