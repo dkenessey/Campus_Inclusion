@@ -17,6 +17,7 @@ The data (pride_index.csv) containing campus inclusivity ratings is shared via a
   - geopandas == 0.13.2
   - scipy == 1.11.4
   - sckit-posthocs == 0.9.0
+- Tableau == 2024.2.0
 
 <h1 style="font-size:24px;"> <b> 4. Key Findings </b> </h1>
 
@@ -58,6 +59,14 @@ The data (pride_index.csv) containing campus inclusivity ratings is shared via a
   - geopandas: choropleth
   - scipy: shapiro, kruskal, spearmanr
   - scikit_posthocs: dunn
+- Tableau: Data Visualization
+  - Calculated fields
+  - Aggregation
+  - Data visualization
+    - Bar charts
+    - Highlight tables
+    - Treemaps
+    - Maps
   
     
     
